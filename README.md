@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Rampriya92/Rampriya92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I’m Ram 👋  
 
-Here are some ideas to get you started:
+**Data Analyst | Cognitive Science Researcher |**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 **Bridging Behavioural science and Data science**  
+📊 **Turning Complex Data into Meaningful Insights**  
+🧠 **Passionate About understanding Human behaviour,Mental Health and AI**  
+
+---
+
+## 🧠 **About Me**  
+
+I’m a researcher and Data analyst with over 5 years of combined academic and industry experience. I specialize in Research and Data analytics.  
+When I’m not analyzing data, I’m writing fiction and painting. 
+
+---
+
+## 🚀 **Coming soon**  
+- **Insight Box** : ‘Insight box’ is an AI system proposed for the 2025 MEXA 2nd hackathon, it evaluates if a Multi-Agent LLM identifies cognitive distortions and mood fluctuations in a simulated month-long individual journal. It was acknowledged by MEXA with "Honarable mention". For the initial implementation check [https://github.com/Rampriya92/Mexa-2nd-Hackathon-2025]
+
+
+## 📬 **Let’s Connect**  
+
+- **LinkedIn:** [https://www.linkedin.com/in/rampriya92/](#)  
+- **Email:** [rampriyadarshini@gmail.com](#)  
+
+---
