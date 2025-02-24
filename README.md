@@ -11,7 +11,7 @@
 ### 🧠 About Me  
 
 I’m a **researcher and data analyst** with over **5 years of combined academic and industry experience**. I specialize in research, data analytics, and translating complex findings into actionable insights.  
-When I’m not analyzing data, I’m **writing fiction and painting** — blending creativity with analytical thinking.  
+When I’m not analyzing data, I’m **writing fiction and painting** 
 
 ---
 
