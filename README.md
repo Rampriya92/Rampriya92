@@ -3,9 +3,9 @@
 
 **Data Analyst | Cognitive Science Researcher**  
 
-🔬 **Bridging Behavioral Science and Data Science**  
-📊 **Turning Complex Data into Meaningful Insights**  
-🧠 **Passionate about Understanding the Human Mind, Mental Health, AI, and Developing Scientifically Informed Products**  
+🔬 Bridging Behavioral Science and Data Science  
+📊 Turning Complex Data into Meaningful Insights  
+🧠 Passionate about Understanding the Human Mind, Mental Health, AI, and Developing Scientifically Informed Products
 ---
 
 ## 🧠 **About Me**  
