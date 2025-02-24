@@ -1,27 +1,33 @@
-
 # Hi there, I’m Ram 👋  
 
 **Data Analyst | Cognitive Science Researcher**  
 
 🔬 Bridging Behavioral Science and Data Science  
 📊 Turning Complex Data into Meaningful Insights  
-🧠 Passionate about Understanding the Human Mind, Mental Health, AI, and Developing Scientifically Informed Products
----
-
-## 🧠 **About Me**  
-
-I’m a researcher and Data analyst with over 5 years of combined academic and industry experience. I specialize in Research and Data analytics.  
-When I’m not analyzing data, I’m writing fiction and painting. 
+🧠 Passionate about Understanding the Human Mind, Mental Health, AI, and Developing Scientifically Informed Products  
 
 ---
 
-## 🚀 **Coming soon**  
-- **Insight Box** : ‘Insight box’ is an AI system proposed for the 2025 MEXA 2nd hackathon, it evaluates if a Multi-Agent LLM identifies cognitive distortions and mood fluctuations in a simulated month-long individual journal. It was acknowledged by MEXA with "Honarable mention". For the initial implementation check [https://github.com/Rampriya92/Mexa-2nd-Hackathon-2025]
+### 🧠 About Me  
 
-
-## 📬 **Let’s Connect**  
-
-- **LinkedIn:** [https://www.linkedin.com/in/rampriya92/](#)  
-- **Email:** [rampriyadarshini@gmail.com](#)  
+I’m a **researcher and data analyst** with over **5 years of combined academic and industry experience**. I specialize in research, data analytics, and translating complex findings into actionable insights.  
+When I’m not analyzing data, I’m **writing fiction and painting** — blending creativity with analytical thinking.  
 
 ---
+
+### 🚀 Coming Soon  
+
+- **Insight Box**  
+  ‘Insight Box’ is an AI system proposed for the **2025 MEXA 2nd Hackathon**. It evaluates whether a Multi-Agent LLM can identify cognitive distortions and mood fluctuations in a simulated month-long individual journal. This project received an **Honorable Mention** from MEXA.  
+  👉 Check the initial implementation [here](https://github.com/Rampriya92/Mexa-2nd-Hackathon-2025).  
+
+---
+
+### 📬 Let’s Connect  
+
+- **LinkedIn:** [linkedin.com/in/rampriya92/](https://www.linkedin.com/in/rampriya92/)  
+- **Email:** [rampriyadarshini@gmail.com](mailto:rampriyadarshini@gmail.com)  
+
+---
+
+
