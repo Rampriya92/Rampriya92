@@ -1,12 +1,11 @@
 
 # Hi there, I’m Ram 👋  
 
-**Data Analyst | Cognitive Science Researcher |**  
+**Data Analyst | Cognitive Science Researcher**  
 
-🔬 **Bridging Behavioural science and Data science**  
+🔬 **Bridging Behavioral Science and Data Science**  
 📊 **Turning Complex Data into Meaningful Insights**  
-🧠 **Passionate About understanding Human behaviour,Mental Health and AI**  
-
+🧠 **Passionate about Understanding the Human Mind, Mental Health, AI, and Developing Scientifically Informed Products**  
 ---
 
 ## 🧠 **About Me**  
