@@ -1,6 +1,6 @@
 # Hi there, I’m Ram 👋  
 
-**Data Analyst | Cognitive Science Researcher**  
+**Data Scientist | Cognitive Science Researcher**  
 
 🔬 Bridging Behavioral Science and Data Science  
 📊 Turning Complex Data into Meaningful Insights  
